@@ -14,14 +14,15 @@
 ## Instructions ✍
 The following points are summarised in <a href="https://github.com/pratyushjain122/employee_dbms/blob/master/Report.pptx">Report.pptx</a> for reference.
 
-<img src="" alt="Login">
+<img align="center" width="50px" src="https://github.com/pratyushjain122/employee_dbms/blob/master/Extra/Login.png" alt="Login">
 
 #### Credentials are 👇
 >Username : user\
 >Password: pass
 
+After successful login the output should be like this 👇
 
-
+<img align="center" src="https://github.com/pratyushjain122/employee_dbms/blob/master/Extra/Home.png" alt="success">
 
 
 ## Contributors👨‍💻
