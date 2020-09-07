@@ -30,7 +30,8 @@ The following points are summarised in <a href="https://github.com/pratyushjain1
 
 <p align="center"><img src="https://github.com/pratyushjain122/employee_dbms/blob/master/Extra/Home.png" alt="home"></p>
 
-#### This is the Home Page of the database.
+### This is the Home Page of the database.
+#### Enter your choice as follows: 
 
 1. Add Employee's Records: This is a function made to add the employee details.
 2. List Employee's Records: This will display the various records in the database.
