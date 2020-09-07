@@ -14,7 +14,7 @@
 &nbsp;
 
 ## Instructions ✍
-#### The following points are summarised in <a href="https://github.com/pratyushjain122/employee_dbms/blob/master/Report.pptx">Report.pptx</a> for reference.
+#### The following points are summarised in <a href="https://drive.google.com/file/d/1qL1R39-0D9f1ZBl1VcRYhPXQzU7CyXiS/view?usp=sharing">Report.pptx</a> for reference.
 
 #### * The code must begin with a login page. Enter the credentials to enter in program.
 
@@ -43,7 +43,7 @@
 
 &nbsp;
 
-#### For further detailed view, refer to <a href="https://github.com/pratyushjain122/employee_dbms/blob/master/Report.pptx">Report.pptx</a>
+#### For further detailed view, refer to <a href="https://drive.google.com/file/d/1qL1R39-0D9f1ZBl1VcRYhPXQzU7CyXiS/view?usp=sharing">Report.pptx</a>
 
 &nbsp;
 ## Contributors👨‍💻
