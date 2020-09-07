@@ -9,10 +9,12 @@
 <li>As a result, the system is most important for improving other systems of organization like human resources management.</li>
 </ul>
 </p>
+
+### This is a simple project made by us to implement C and to make a database management system for real use.
 &nbsp;
 
 ## Instructions ✍
-The following points are summarised in <a href="https://github.com/pratyushjain122/employee_dbms/blob/master/Report.pptx">Report.pptx</a> for reference.
+#### The following points are summarised in <a href="https://github.com/pratyushjain122/employee_dbms/blob/master/Report.pptx">Report.pptx</a> for reference.
 
 #### * The code must begin with a login page. Enter the credentials to enter in program.
 
@@ -43,7 +45,6 @@ The following points are summarised in <a href="https://github.com/pratyushjain1
 
 #### For further detailed view, refer to <a href="https://github.com/pratyushjain122/employee_dbms/blob/master/Report.pptx">Report.pptx</a>
 
-### This is a simple made by us to implement C and to make a database management system for real use.
 &nbsp;
 ## Contributors👨‍💻
 <ul>
