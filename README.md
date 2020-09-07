@@ -39,7 +39,7 @@
 2. List Employee's Records: This will display the various records in the database.
 3. Modify Employee's Records: This can be used to modify employee's record.
 4. Delete Employee's Records: This deletes the record for the employee.
-5. Reurn to main menu: This is return the program to the Login page.
+5. Return to main menu: This is return the program to the Login page.
 
 &nbsp;
 
