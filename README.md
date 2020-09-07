@@ -24,7 +24,9 @@ The following points are summarised in <a href="https://github.com/pratyushjain1
 
 <p align="center"><img src="https://github.com/pratyushjain122/employee_dbms/blob/master/Extra/Login.png" alt="login"></p>
 
-### Now the Home page shall appear.
+#### &ndash; Press any key
+&nbsp;
+### Now the Home Page shall appear.
 
 <p align="center"><img src="https://github.com/pratyushjain122/employee_dbms/blob/master/Extra/Home.png" alt="home"></p>
 
