@@ -1,4 +1,4 @@
-<img src="E:\Repos\employee_dbms\Extra\Banner.png" alt="banner">
+<img src="https://github.com/pratyushjain122/employee_dbms/blob/master/Extra/Banner.png" alt="banner">
 <h2 align="center">&ndash; <strong>Programmed in C language</strong> &ndash;</h2>
 
 &nbsp;
@@ -14,7 +14,9 @@
 ## Instructions ✍
 The following points are summarised in <a href="https://github.com/pratyushjain122/employee_dbms/blob/master/Report.pptx">Report.pptx</a> for reference.
 
-### On Main Menu 👇
+
+
+#### On Main Menu 👇
 >Username : user\
 >Password: pass
 
