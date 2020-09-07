@@ -14,9 +14,9 @@
 ## Instructions ✍
 The following points are summarised in <a href="https://github.com/pratyushjain122/employee_dbms/blob/master/Report.pptx">Report.pptx</a> for reference.
 
+<img src="" alt="Login">
 
-
-#### On Main Menu 👇
+#### Credentials are 👇
 >Username : user\
 >Password: pass
 
