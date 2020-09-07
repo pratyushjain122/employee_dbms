@@ -1,7 +1,7 @@
 <img src="https://github.com/pratyushjain122/employee_dbms/blob/master/Extra/Banner.png" alt="banner">
 <h2 align="center">&ndash; <strong>Programmed in C language</strong> &ndash;</h2>
 
-&nbsp;
+&nbsp; 
 <p>
 <ul>
 <li>The entire DBMS is designed to remove problems in existing system and the organization will meet its specific aims.</li>
@@ -39,9 +39,12 @@ The following points are summarised in <a href="https://github.com/pratyushjain1
 4. Delete Employee's Records: This deletes the record for the employee.
 5. Reurn to main menu: This is return the program to the Login page.
 
+&nbsp;
+
 #### For further detailed view, refer to <a href="https://github.com/pratyushjain122/employee_dbms/blob/master/Report.pptx">Report.pptx</a>
 
-
+### This is a simple made by us to implement C and to make a database management system for real use.
+&nbsp;
 ## Contributors👨‍💻
 <ul>
 <li><a href="https://github.com/prakhar-agarwall">Prakhar Agarwal</a></li>
