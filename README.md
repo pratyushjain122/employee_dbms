@@ -16,7 +16,7 @@
 ## Instructions ✍
 #### The following points are summarised in <a href="https://drive.google.com/file/d/1qL1R39-0D9f1ZBl1VcRYhPXQzU7CyXiS/view?usp=sharing">Report.pptx</a> for reference.
 
-#### * The code must begin with a login page. Enter the credentials to enter in program.
+#### *  The code must begin with a login page. Enter the credentials to enter in program.
 
 #### Credentials are 👇
 >Username : user\
