@@ -48,6 +48,7 @@
 &nbsp;
 ## Contributors👨‍💻
 <ul>
+<li><a href="https://github.com/pratyushjain122">Pratyush Jain</a></li>
 <li><a href="https://github.com/prakhar-agarwall">Prakhar Agarwal</a></li>
 <li><a href="https://github.com/Sudhanshu1304">Sudhanshu Pandey</a></li>
 <li><a href="https://github.com/mansharamani-rahul">Rahul Mansharamani</a></li>
